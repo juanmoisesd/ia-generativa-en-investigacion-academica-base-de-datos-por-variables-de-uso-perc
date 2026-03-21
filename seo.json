@@ -1,0 +1,19 @@
+{
+  "title": "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-2025). Incluye datos sobre: frecuencia de uso por estudiantes e investigadores, áreas de a",
+  "description": "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-",
+  "keywords": "cc0, dataset, open-data, zenodo",
+  "author": "Juan Moisés de la Serna Tuya",
+  "orcid": "https://orcid.org/0000-0002-8401-8018",
+  "canonical": "https://juanmoisesd.github.io/ia-generativa-en-investigacion-academica-base-de-datos-por-variables-de-uso-perc/",
+  "og:title": "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-2025). Incluye datos sobre: frecuencia de uso por estudiantes e investigadores, áreas de a",
+  "og:description": "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-2025). Incluye datos sobre: frecuencia d",
+  "og:url": "https://juanmoisesd.github.io/ia-generativa-en-investigacion-academica-base-de-datos-por-variables-de-uso-perc/",
+  "og:type": "dataset",
+  "twitter:card": "summary",
+  "twitter:title": "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-2025). Incluye datos sobre: frecuencia de uso por estudiantes e investigadores, áreas de a",
+  "twitter:description": "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-",
+  "schema_type": "Dataset",
+  "license": "CC0-1.0",
+  "datePublished": "2026-03-20",
+  "language": "es, en"
+}
