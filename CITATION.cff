@@ -1,16 +1,21 @@
 cff-version: 1.2.0
-message: "Please cite this dataset using the metadata below."
+message: "If you use this software/dataset, please cite it as below."
 type: dataset
-title: "IA Generativa en Investigación Académica: Base de Datos por Variables de Uso, Percepción y Productividad (América Latina, 2022-2025)"
+title: "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-2025). Incluye datos sobre: frecuencia de uso por estudiantes e investigadores, áreas de a"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
     orcid: "https://orcid.org/0000-0002-8401-8018"
     affiliation: "Universidad Internacional de La Rioja (UNIR)"
-doi: "10.5281/zenodo.18881118"
-url: "https://doi.org/10.5281/zenodo.18881118"
+    email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/ia-generativa-en-investigacion-academica-base-de-datos-por-variables-de-uso-perc"
-license: CC0-1.0
-date-released: "2026-03-05"
+url: "https://juanmoisesd.github.io/ia-generativa-en-investigacion-academica-base-de-datos-por-variables-de-uso-perc/"
+abstract: "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-2025). Incluye datos sobre: frecuencia de uso por estudiantes e investigadores, áreas de a"
 keywords:
-
+  - open-data
+  - dataset
+  - research
+  - science
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-03-20"
