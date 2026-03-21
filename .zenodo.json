@@ -1,0 +1,37 @@
+{
+  "title": "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-2025). Incluye datos sobre: frecuencia de uso por estudiantes e investigadores, áreas de a",
+  "description": "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-2025). Incluye datos sobre: frecuencia de uso por estudiantes e investigadores, áreas de a",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "open-data",
+    "zenodo",
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/ia-generativa-en-investigacion-academica-base-de-datos-por-variables-de-uso-perc",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
