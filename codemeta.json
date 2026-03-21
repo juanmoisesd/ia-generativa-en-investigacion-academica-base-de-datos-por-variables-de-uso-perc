@@ -1,17 +1,43 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "IA Generativa en Investigaci\u00f3n Acad\u00e9mica: Base de Datos por Variables de Uso, Percepci\u00f3n y Productividad (Am\u00e9rica Latina, 2022-2025)",
-  "identifier": "10.5281/zenodo.18881118",
-  "url": "https://doi.org/10.5281/zenodo.18881118",
+  "@type": "SoftwareSourceCode",
+  "name": "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-2025). Incluye datos sobre: frecuencia de uso por estudiantes e investigadores, áreas de a",
+  "description": "Base de datos estructurada sobre el uso de inteligencia artificial generativa (IAG) en investigación académica y docencia universitaria en América Latina (2022-2025). Incluye datos sobre: frecuencia de uso por estudiantes e investigadores, áreas de a",
+  "url": "https://github.com/juanmoisesd/ia-generativa-en-investigacion-academica-base-de-datos-por-variables-de-uso-perc",
+  "codeRepository": "https://github.com/juanmoisesd/ia-generativa-en-investigacion-academica-base-de-datos-por-variables-de-uso-perc",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "keywords": []
+  "keywords": [
+    "cc0",
+    "dataset",
+    "open-data",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
